@@ -32,7 +32,7 @@ int main() {
     }
 
     if (tries == maxTries) {
-        cout << "Sorry, you've used all your attempts. The number I was thinking of was " << secretNumber << ".\n";
+        cout << "Sorry, you suck at guessing. All your attempts are gone. The number I was thinking of was " << secretNumber << ".\n";
     }
 
     return 0;
